@@ -1,0 +1,68 @@
+.singleEvents{
+  color:#fff;
+}
+.eventTitle{
+  font-size: 30px;
+  line-height: 1.5;
+}
+.singleEvents {
+  
+}
+.eventDate{
+  font-size: 14px;
+}
+.eventAddress{
+  font-size: 14px;
+}
+.memberCards{
+  /* overflow: hidden; */
+}
+
+.memberCardsCircle::before {
+  content: '';
+    width: calc(20px* 2);
+    height: 20px;
+    border: 1px solid #0d9488;
+    background: #fff;
+    border-bottom-left-radius: calc(20px* 2);
+    border-bottom-right-radius: calc(20px* 2);
+    border-top: none;
+    position: absolute;
+    top: -1px;
+}
+.memberCardsCircle::after {
+  content: '';
+    width: calc(20px* 2);
+    height: 20px;
+    border: 1px solid #0d9488;
+    background: #fff;
+    border-top-left-radius: calc(20px* 2);
+    border-top-right-radius: calc(20px* 2);
+    border-bottom: none;
+    position: absolute;
+    bottom: -1px;
+}
+.membership-title{
+  font-size: 45px;
+  color: #c5456a;
+  font-weight: 500;
+  margin: 30px 0px 50px;
+}
+.membershipCard{
+  box-shadow: 0px 0px 7px 2px #c7c2c2;
+  border-radius: 25px;
+}
+ul li.list-icon-bg{
+  background: url(./assets/images/list-icon.png);
+  background-size: 25px;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    line-height: 1.2;
+    padding-bottom: 19px;
+}
+.text-color{
+  color:#5c5c5c;
+}
+.footer{
+  color:#fff;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "title":"Titan Membership",
+        "benefits":[
+            "Minimum 15+ Years of professional experience",
+            "Under 21 not eligible",
+            "Access to all LWL & Titan even throughout the year",
+            "Access to digital platforms",
+            "Access to all workshops anually",
+            "Exclusive Access to select Partners"
+        ],
+        "price":"1995"
+    },
+    {
+        "title":"LWL Membership",
+        "benefits":[
+            "Minimum 15+ Years of professional experience",
+            "Under 21 not eligible",
+            "Access to all LWL & Titan even throughout the year",
+            "Access to digital platforms",
+            "Access to all workshops anually",
+            "Exclusive Access to select Partners"
+        ],
+        "price":"1995"
+    },
+    {
+        "title":"Aspire Membership",
+        "benefits":[
+            "Minimum 15+ Years of professional experience",
+            "Under 21 not eligible",
+            "Access to all LWL & Titan even throughout the year",
+            "Access to digital platforms",
+            "Access to all workshops anually",
+            "Exclusive Access to select Partners"
+        ],
+        "price":"9995"
+    }
+]
